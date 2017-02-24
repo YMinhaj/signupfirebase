@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "262778839681",
+    "firebase_url": "https://vision-store.firebaseio.com",
+    "project_id": "vision-store",
+    "storage_bucket": "vision-store.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262778839681:android:31f0a611da9c0d7b",
+        "android_client_info": {
+          "package_name": "com.example.yousufminhaj.campusrecruitmentsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262778839681-u26507ar6c865q2ec4c1a3lhh480ioat.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yousufminhaj.campusrecruitmentsystem",
+            "certificate_hash": "836788a76d2bcc5ed98b1c607b003829e5cd71ac"
+          }
+        },
+        {
+          "client_id": "262778839681-7gmi08p3odevmhgbbfllcat3fr4rl992.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoQIrjOaEqMZJqsti9FD3d0r6i9jiMCo8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262778839681-7gmi08p3odevmhgbbfllcat3fr4rl992.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
